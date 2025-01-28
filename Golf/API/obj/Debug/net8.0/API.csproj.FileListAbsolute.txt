@@ -257,3 +257,4 @@ C:\Users\Diak\..FJD\Backend\2025-01-28\Golf\API\obj\Debug\net8.0\refint\API.dll
 C:\Users\Diak\..FJD\Backend\2025-01-28\Golf\API\obj\Debug\net8.0\API.pdb
 C:\Users\Diak\..FJD\Backend\2025-01-28\Golf\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\Diak\..FJD\Backend\2025-01-28\Golf\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\Diak\..FJD\Backend\2025-01-28\Golf\API\obj\Debug\net8.0\API.sourcelink.json

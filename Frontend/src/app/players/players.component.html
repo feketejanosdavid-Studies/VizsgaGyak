@@ -1,0 +1,14 @@
+<!-- {{players|json}} -->
+<ng-container *ngFor="let player of players" >
+    <div class="row mb-2">
+        <div class="col">{{player.name}}</div>
+        <div class="col">
+            <button class="btn btn-outline-primary" type="button" (click)="player.visibleResult = !player.visibleResult">{{!player.visibleResult?"Megjelenít":"Bezár"}}</button>
+        </div>
+    </div>
+
+
+    <div class="col m-3">
+        <app-result *ngIf="player.visibleResult" [results]="player.results"></app-result>
+    </div>
+</ng-container>
